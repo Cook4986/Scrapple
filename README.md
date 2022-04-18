@@ -6,7 +6,8 @@ Scrape public staff directory for office locations and append CSV with that data
   - import By
   - import NoSuchElementException
   - import StaleElementReferenceException
-+[Pandas](https://pandas.pydata.org/)
+
++ [Pandas](https://pandas.pydata.org/)
 
 ## Usage:
 1. Set "table" and "out" table filepaths in "Declarations"
